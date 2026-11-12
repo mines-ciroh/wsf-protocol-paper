@@ -1,0 +1,9 @@
+method,n_sites_any_eval_coverage,n_sites_full_eval_coverage,mean_site_fraction_eval_period,panel,n_sites_ge10_eval_years
+NRCS,23,16,0.84,A,
+RFC Official,21,10,0.694,A,
+RFC Hindcast,11,3,0.381,A,
+CA DWR,2,2,0.077,A,
+WSF Rodeo (1st-5th),26,26,1.0,A,
+Statistical (NRCS or CA DWR),25,18,0.917,B,24.0
+RFC ESP (Official or Hindcast),21,12,0.706,B,18.0
+WSF Rodeo ML (1st-5th),26,26,1.0,B,26.0

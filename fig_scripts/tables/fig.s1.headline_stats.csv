@@ -1,0 +1,235 @@
+site,site_name,method,n_pairs_deterministic,n_pairs_probabilistic
+06054500,Missouri River at Toston,nrcs,68,68
+06054500,Missouri River at Toston,rfc_official,0,0
+06054500,Missouri River at Toston,rfc_hcst,0,0
+06054500,Missouri River at Toston,ca_dwr,0,0
+06054500,Missouri River at Toston,wsf_rodeo_1place,80,80
+06054500,Missouri River at Toston,wsf_rodeo_2place,80,80
+06054500,Missouri River at Toston,wsf_rodeo_3place,80,80
+06054500,Missouri River at Toston,wsf_rodeo_4place,80,80
+06054500,Missouri River at Toston,wsf_rodeo_5place,80,80
+06259000,Boysen Reservoir Inflow,nrcs,79,79
+06259000,Boysen Reservoir Inflow,rfc_official,0,0
+06259000,Boysen Reservoir Inflow,rfc_hcst,0,0
+06259000,Boysen Reservoir Inflow,ca_dwr,0,0
+06259000,Boysen Reservoir Inflow,wsf_rodeo_1place,80,80
+06259000,Boysen Reservoir Inflow,wsf_rodeo_2place,80,80
+06259000,Boysen Reservoir Inflow,wsf_rodeo_3place,80,80
+06259000,Boysen Reservoir Inflow,wsf_rodeo_4place,80,80
+06259000,Boysen Reservoir Inflow,wsf_rodeo_5place,80,80
+06639000,Sweetwater River near Alcova,nrcs,79,79
+06639000,Sweetwater River near Alcova,rfc_official,0,0
+06639000,Sweetwater River near Alcova,rfc_hcst,0,0
+06639000,Sweetwater River near Alcova,ca_dwr,0,0
+06639000,Sweetwater River near Alcova,wsf_rodeo_1place,80,80
+06639000,Sweetwater River near Alcova,wsf_rodeo_2place,80,80
+06639000,Sweetwater River near Alcova,wsf_rodeo_3place,80,80
+06639000,Sweetwater River near Alcova,wsf_rodeo_4place,80,80
+06639000,Sweetwater River near Alcova,wsf_rodeo_5place,80,80
+07099400,Pueblo Reservoir Inflow,nrcs,71,71
+07099400,Pueblo Reservoir Inflow,rfc_official,0,0
+07099400,Pueblo Reservoir Inflow,rfc_hcst,0,0
+07099400,Pueblo Reservoir Inflow,ca_dwr,0,0
+07099400,Pueblo Reservoir Inflow,wsf_rodeo_1place,80,80
+07099400,Pueblo Reservoir Inflow,wsf_rodeo_2place,80,80
+07099400,Pueblo Reservoir Inflow,wsf_rodeo_3place,80,80
+07099400,Pueblo Reservoir Inflow,wsf_rodeo_4place,80,80
+07099400,Pueblo Reservoir Inflow,wsf_rodeo_5place,80,80
+08378500,Pecos River near Pecos,nrcs,79,79
+08378500,Pecos River near Pecos,rfc_official,73,73
+08378500,Pecos River near Pecos,rfc_hcst,0,0
+08378500,Pecos River near Pecos,ca_dwr,0,0
+08378500,Pecos River near Pecos,wsf_rodeo_1place,80,80
+08378500,Pecos River near Pecos,wsf_rodeo_2place,80,80
+08378500,Pecos River near Pecos,wsf_rodeo_3place,80,80
+08378500,Pecos River near Pecos,wsf_rodeo_4place,80,80
+08378500,Pecos River near Pecos,wsf_rodeo_5place,80,80
+09050700,Dillon Reservoir Inflow,nrcs,79,79
+09050700,Dillon Reservoir Inflow,rfc_official,78,78
+09050700,Dillon Reservoir Inflow,rfc_hcst,68,68
+09050700,Dillon Reservoir Inflow,ca_dwr,0,0
+09050700,Dillon Reservoir Inflow,wsf_rodeo_1place,80,80
+09050700,Dillon Reservoir Inflow,wsf_rodeo_2place,80,80
+09050700,Dillon Reservoir Inflow,wsf_rodeo_3place,80,80
+09050700,Dillon Reservoir Inflow,wsf_rodeo_4place,80,80
+09050700,Dillon Reservoir Inflow,wsf_rodeo_5place,80,80
+09080190,Ruedi Reservoir Inflow,nrcs,79,79
+09080190,Ruedi Reservoir Inflow,rfc_official,78,78
+09080190,Ruedi Reservoir Inflow,rfc_hcst,68,68
+09080190,Ruedi Reservoir Inflow,ca_dwr,0,0
+09080190,Ruedi Reservoir Inflow,wsf_rodeo_1place,80,80
+09080190,Ruedi Reservoir Inflow,wsf_rodeo_2place,80,80
+09080190,Ruedi Reservoir Inflow,wsf_rodeo_3place,80,80
+09080190,Ruedi Reservoir Inflow,wsf_rodeo_4place,80,80
+09080190,Ruedi Reservoir Inflow,wsf_rodeo_5place,80,80
+09109000,Taylor Park Reservoir Inflow,nrcs,79,79
+09109000,Taylor Park Reservoir Inflow,rfc_official,78,78
+09109000,Taylor Park Reservoir Inflow,rfc_hcst,68,68
+09109000,Taylor Park Reservoir Inflow,ca_dwr,0,0
+09109000,Taylor Park Reservoir Inflow,wsf_rodeo_1place,80,80
+09109000,Taylor Park Reservoir Inflow,wsf_rodeo_2place,80,80
+09109000,Taylor Park Reservoir Inflow,wsf_rodeo_3place,80,80
+09109000,Taylor Park Reservoir Inflow,wsf_rodeo_4place,80,80
+09109000,Taylor Park Reservoir Inflow,wsf_rodeo_5place,80,80
+09211150,Fontenelle Reservoir Inflow,nrcs,79,79
+09211150,Fontenelle Reservoir Inflow,rfc_official,60,60
+09211150,Fontenelle Reservoir Inflow,rfc_hcst,72,72
+09211150,Fontenelle Reservoir Inflow,ca_dwr,0,0
+09211150,Fontenelle Reservoir Inflow,wsf_rodeo_1place,80,80
+09211150,Fontenelle Reservoir Inflow,wsf_rodeo_2place,80,80
+09211150,Fontenelle Reservoir Inflow,wsf_rodeo_3place,80,80
+09211150,Fontenelle Reservoir Inflow,wsf_rodeo_4place,80,80
+09211150,Fontenelle Reservoir Inflow,wsf_rodeo_5place,80,80
+09251000,Yampa River near Maybell,nrcs,79,79
+09251000,Yampa River near Maybell,rfc_official,79,79
+09251000,Yampa River near Maybell,rfc_hcst,72,72
+09251000,Yampa River near Maybell,ca_dwr,0,0
+09251000,Yampa River near Maybell,wsf_rodeo_1place,80,80
+09251000,Yampa River near Maybell,wsf_rodeo_2place,80,80
+09251000,Yampa River near Maybell,wsf_rodeo_3place,80,80
+09251000,Yampa River near Maybell,wsf_rodeo_4place,80,80
+09251000,Yampa River near Maybell,wsf_rodeo_5place,80,80
+09361500,Animas River at Durango,nrcs,79,79
+09361500,Animas River at Durango,rfc_official,79,79
+09361500,Animas River at Durango,rfc_hcst,68,68
+09361500,Animas River at Durango,ca_dwr,0,0
+09361500,Animas River at Durango,wsf_rodeo_1place,80,80
+09361500,Animas River at Durango,wsf_rodeo_2place,80,80
+09361500,Animas River at Durango,wsf_rodeo_3place,80,80
+09361500,Animas River at Durango,wsf_rodeo_4place,80,80
+09361500,Animas River at Durango,wsf_rodeo_5place,80,80
+09406000,Virgin River at Virgin,nrcs,79,79
+09406000,Virgin River at Virgin,rfc_official,79,79
+09406000,Virgin River at Virgin,rfc_hcst,68,68
+09406000,Virgin River at Virgin,ca_dwr,0,0
+09406000,Virgin River at Virgin,wsf_rodeo_1place,80,80
+09406000,Virgin River at Virgin,wsf_rodeo_2place,80,80
+09406000,Virgin River at Virgin,wsf_rodeo_3place,80,80
+09406000,Virgin River at Virgin,wsf_rodeo_4place,80,80
+09406000,Virgin River at Virgin,wsf_rodeo_5place,80,80
+10128500,Weber River near Oakley,nrcs,78,78
+10128500,Weber River near Oakley,rfc_official,77,77
+10128500,Weber River near Oakley,rfc_hcst,68,68
+10128500,Weber River near Oakley,ca_dwr,0,0
+10128500,Weber River near Oakley,wsf_rodeo_1place,80,80
+10128500,Weber River near Oakley,wsf_rodeo_2place,80,80
+10128500,Weber River near Oakley,wsf_rodeo_3place,80,80
+10128500,Weber River near Oakley,wsf_rodeo_4place,80,80
+10128500,Weber River near Oakley,wsf_rodeo_5place,80,80
+11251000,San Joaquin River - Millerton Reservoir,nrcs,0,0
+11251000,San Joaquin River - Millerton Reservoir,rfc_official,80,80
+11251000,San Joaquin River - Millerton Reservoir,rfc_hcst,80,80
+11251000,San Joaquin River - Millerton Reservoir,ca_dwr,60,60
+11251000,San Joaquin River - Millerton Reservoir,wsf_rodeo_1place,80,80
+11251000,San Joaquin River - Millerton Reservoir,wsf_rodeo_2place,80,80
+11251000,San Joaquin River - Millerton Reservoir,wsf_rodeo_3place,80,80
+11251000,San Joaquin River - Millerton Reservoir,wsf_rodeo_4place,80,80
+11251000,San Joaquin River - Millerton Reservoir,wsf_rodeo_5place,80,80
+11266500,Merced River - Yosemite at Pohono Bridge,nrcs,28,0
+11266500,Merced River - Yosemite at Pohono Bridge,rfc_official,80,80
+11266500,Merced River - Yosemite at Pohono Bridge,rfc_hcst,80,80
+11266500,Merced River - Yosemite at Pohono Bridge,ca_dwr,0,0
+11266500,Merced River - Yosemite at Pohono Bridge,wsf_rodeo_1place,80,80
+11266500,Merced River - Yosemite at Pohono Bridge,wsf_rodeo_2place,80,80
+11266500,Merced River - Yosemite at Pohono Bridge,wsf_rodeo_3place,80,80
+11266500,Merced River - Yosemite at Pohono Bridge,wsf_rodeo_4place,80,80
+11266500,Merced River - Yosemite at Pohono Bridge,wsf_rodeo_5place,80,80
+11446220,American River - Folsom Reservoir,nrcs,0,0
+11446220,American River - Folsom Reservoir,rfc_official,80,80
+11446220,American River - Folsom Reservoir,rfc_hcst,80,80
+11446220,American River - Folsom Reservoir,ca_dwr,60,60
+11446220,American River - Folsom Reservoir,wsf_rodeo_1place,80,80
+11446220,American River - Folsom Reservoir,wsf_rodeo_2place,80,80
+11446220,American River - Folsom Reservoir,wsf_rodeo_3place,80,80
+11446220,American River - Folsom Reservoir,wsf_rodeo_4place,80,80
+11446220,American River - Folsom Reservoir,wsf_rodeo_5place,80,80
+12105900,Green River below Howard Hanson Dam,nrcs,78,78
+12105900,Green River below Howard Hanson Dam,rfc_official,34,34
+12105900,Green River below Howard Hanson Dam,rfc_hcst,0,0
+12105900,Green River below Howard Hanson Dam,ca_dwr,0,0
+12105900,Green River below Howard Hanson Dam,wsf_rodeo_1place,80,80
+12105900,Green River below Howard Hanson Dam,wsf_rodeo_2place,80,80
+12105900,Green River below Howard Hanson Dam,wsf_rodeo_3place,80,80
+12105900,Green River below Howard Hanson Dam,wsf_rodeo_4place,80,80
+12105900,Green River below Howard Hanson Dam,wsf_rodeo_5place,80,80
+12175000,Ross Reservoir Inflow,nrcs,0,0
+12175000,Ross Reservoir Inflow,rfc_official,34,34
+12175000,Ross Reservoir Inflow,rfc_hcst,0,0
+12175000,Ross Reservoir Inflow,ca_dwr,0,0
+12175000,Ross Reservoir Inflow,wsf_rodeo_1place,80,80
+12175000,Ross Reservoir Inflow,wsf_rodeo_2place,80,80
+12175000,Ross Reservoir Inflow,wsf_rodeo_3place,80,80
+12175000,Ross Reservoir Inflow,wsf_rodeo_4place,80,80
+12175000,Ross Reservoir Inflow,wsf_rodeo_5place,80,80
+12301933,Libby Reservoir Inflow,nrcs,68,68
+12301933,Libby Reservoir Inflow,rfc_official,75,75
+12301933,Libby Reservoir Inflow,rfc_hcst,0,0
+12301933,Libby Reservoir Inflow,ca_dwr,0,0
+12301933,Libby Reservoir Inflow,wsf_rodeo_1place,80,80
+12301933,Libby Reservoir Inflow,wsf_rodeo_2place,80,80
+12301933,Libby Reservoir Inflow,wsf_rodeo_3place,80,80
+12301933,Libby Reservoir Inflow,wsf_rodeo_4place,80,80
+12301933,Libby Reservoir Inflow,wsf_rodeo_5place,80,80
+12362500,Hungry Horse Reservoir Inflow,nrcs,68,68
+12362500,Hungry Horse Reservoir Inflow,rfc_official,75,75
+12362500,Hungry Horse Reservoir Inflow,rfc_hcst,0,0
+12362500,Hungry Horse Reservoir Inflow,ca_dwr,0,0
+12362500,Hungry Horse Reservoir Inflow,wsf_rodeo_1place,80,80
+12362500,Hungry Horse Reservoir Inflow,wsf_rodeo_2place,80,80
+12362500,Hungry Horse Reservoir Inflow,wsf_rodeo_3place,80,80
+12362500,Hungry Horse Reservoir Inflow,wsf_rodeo_4place,80,80
+12362500,Hungry Horse Reservoir Inflow,wsf_rodeo_5place,80,80
+12409000,Colville River at Kettle Falls,nrcs,77,77
+12409000,Colville River at Kettle Falls,rfc_official,34,34
+12409000,Colville River at Kettle Falls,rfc_hcst,0,0
+12409000,Colville River at Kettle Falls,ca_dwr,0,0
+12409000,Colville River at Kettle Falls,wsf_rodeo_1place,80,80
+12409000,Colville River at Kettle Falls,wsf_rodeo_2place,80,80
+12409000,Colville River at Kettle Falls,wsf_rodeo_3place,80,80
+12409000,Colville River at Kettle Falls,wsf_rodeo_4place,80,80
+12409000,Colville River at Kettle Falls,wsf_rodeo_5place,80,80
+12451000,Stehekin River at Stehekin,nrcs,79,79
+12451000,Stehekin River at Stehekin,rfc_official,52,52
+12451000,Stehekin River at Stehekin,rfc_hcst,0,0
+12451000,Stehekin River at Stehekin,ca_dwr,0,0
+12451000,Stehekin River at Stehekin,wsf_rodeo_1place,80,80
+12451000,Stehekin River at Stehekin,wsf_rodeo_2place,80,80
+12451000,Stehekin River at Stehekin,wsf_rodeo_3place,80,80
+12451000,Stehekin River at Stehekin,wsf_rodeo_4place,80,80
+12451000,Stehekin River at Stehekin,wsf_rodeo_5place,80,80
+13037500,Snake River near Heise,nrcs,79,79
+13037500,Snake River near Heise,rfc_official,73,73
+13037500,Snake River near Heise,rfc_hcst,0,0
+13037500,Snake River near Heise,ca_dwr,0,0
+13037500,Snake River near Heise,wsf_rodeo_1place,80,80
+13037500,Snake River near Heise,wsf_rodeo_2place,80,80
+13037500,Snake River near Heise,wsf_rodeo_3place,80,80
+13037500,Snake River near Heise,wsf_rodeo_4place,80,80
+13037500,Snake River near Heise,wsf_rodeo_5place,80,80
+13183000,Owyhee River below Owyhee Dam,nrcs,37,37
+13183000,Owyhee River below Owyhee Dam,rfc_official,43,43
+13183000,Owyhee River below Owyhee Dam,rfc_hcst,0,0
+13183000,Owyhee River below Owyhee Dam,ca_dwr,0,0
+13183000,Owyhee River below Owyhee Dam,wsf_rodeo_1place,80,80
+13183000,Owyhee River below Owyhee Dam,wsf_rodeo_2place,80,80
+13183000,Owyhee River below Owyhee Dam,wsf_rodeo_3place,80,80
+13183000,Owyhee River below Owyhee Dam,wsf_rodeo_4place,80,80
+13183000,Owyhee River below Owyhee Dam,wsf_rodeo_5place,80,80
+13202000,Boise River near Boise,nrcs,77,77
+13202000,Boise River near Boise,rfc_official,76,76
+13202000,Boise River near Boise,rfc_hcst,0,0
+13202000,Boise River near Boise,ca_dwr,0,0
+13202000,Boise River near Boise,wsf_rodeo_1place,80,80
+13202000,Boise River near Boise,wsf_rodeo_2place,80,80
+13202000,Boise River near Boise,wsf_rodeo_3place,80,80
+13202000,Boise River near Boise,wsf_rodeo_4place,80,80
+13202000,Boise River near Boise,wsf_rodeo_5place,80,80
+14181500,Detroit Lake Inflow,nrcs,35,35
+14181500,Detroit Lake Inflow,rfc_official,0,0
+14181500,Detroit Lake Inflow,rfc_hcst,0,0
+14181500,Detroit Lake Inflow,ca_dwr,0,0
+14181500,Detroit Lake Inflow,wsf_rodeo_1place,80,80
+14181500,Detroit Lake Inflow,wsf_rodeo_2place,80,80
+14181500,Detroit Lake Inflow,wsf_rodeo_3place,80,80
+14181500,Detroit Lake Inflow,wsf_rodeo_4place,80,80
+14181500,Detroit Lake Inflow,wsf_rodeo_5place,80,80

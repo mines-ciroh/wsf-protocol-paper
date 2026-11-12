@@ -1,0 +1,2 @@
+year,site,kge_rfc_esp,nse_rfc_esp,obs_amjj_kaf,nrcs_median_kaf,rfc_median_kaf,rmse_nrcs_kaf,rmse_rfc_kaf,pbias_nrcs_pct,pbias_rfc_pct
+2017,12362500,0.685,0.73,2179.2,2200.0,2215.6,20.8,36.4,1.0,1.7

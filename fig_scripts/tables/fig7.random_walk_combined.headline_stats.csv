@@ -1,0 +1,2 @@
+n_comparisons,sig_envelope,sig_envelope_favor_rodeo,sig_envelope_favor_benchmark,sig_p05,sig_p05_favor_rodeo,sig_p05_favor_benchmark,rule_disagreements
+125,26,6,20,24,5,19,"10128500/Rodeo 1(final=-18,N=78,p=0.054);12105900/Rodeo 3(final=18,N=78,p=0.054)"

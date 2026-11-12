@@ -1,0 +1,79 @@
+method_group,site_num,usgs_id,site_name,rfc,n_eval_years_available,frac_eval_years_available,other_season_only
+Statistical (NRCS or CA DWR),1,12362500,Hungry Horse Reservoir Inflow,NWRFC,20,1.0,False
+Statistical (NRCS or CA DWR),2,13037500,Snake River near Heise,NWRFC,19,0.95,False
+Statistical (NRCS or CA DWR),8,12301933,Libby Reservoir Inflow,NWRFC,20,1.0,False
+Statistical (NRCS or CA DWR),9,13202000,Boise River near Boise,NWRFC,19,0.95,False
+Statistical (NRCS or CA DWR),10,12105900,Green River below Howard Hanson Dam,NWRFC,20,1.0,False
+Statistical (NRCS or CA DWR),19,12409000,Colville River at Kettle Falls,NWRFC,19,0.95,False
+Statistical (NRCS or CA DWR),20,12451000,Stehekin River at Stehekin,NWRFC,20,1.0,False
+Statistical (NRCS or CA DWR),21,14181500,Detroit Lake Inflow,NWRFC,14,0.7,False
+Statistical (NRCS or CA DWR),23,12175000,Ross Reservoir Inflow,NWRFC,0,0.0,False
+Statistical (NRCS or CA DWR),26,13183000,Owyhee River below Owyhee Dam,NWRFC,19,0.95,False
+Statistical (NRCS or CA DWR),16,11251000,San Joaquin River - Millerton Reservoir,CNRFC,20,1.0,False
+Statistical (NRCS or CA DWR),17,11266500,Merced River - Yosemite at Pohono Bridge,CNRFC,9,0.45,False
+Statistical (NRCS or CA DWR),18,11446220,American River - Folsom Reservoir,CNRFC,20,1.0,False
+Statistical (NRCS or CA DWR),6,09361500,Animas River at Durango,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),7,09251000,Yampa River near Maybell,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),11,09109000,Taylor Park Reservoir Inflow,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),12,09050700,Dillon Reservoir Inflow,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),13,09080190,Ruedi Reservoir Inflow,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),14,09211150,Fontenelle Reservoir Inflow,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),15,10128500,Weber River near Oakley,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),22,09406000,Virgin River at Virgin,CBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),4,06639000,Sweetwater River near Alcova,MBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),5,06054500,Missouri River at Toston,MBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),24,06259000,Boysen Reservoir Inflow,MBRFC,20,1.0,False
+Statistical (NRCS or CA DWR),3,07099400,Pueblo Reservoir Inflow,ABRFC,18,0.9,False
+Statistical (NRCS or CA DWR),25,08378500,Pecos River near Pecos,WGRFC,20,1.0,False
+RFC ESP (Official or Hindcast),1,12362500,Hungry Horse Reservoir Inflow,NWRFC,19,0.95,False
+RFC ESP (Official or Hindcast),2,13037500,Snake River near Heise,NWRFC,19,0.95,False
+RFC ESP (Official or Hindcast),8,12301933,Libby Reservoir Inflow,NWRFC,19,0.95,False
+RFC ESP (Official or Hindcast),9,13202000,Boise River near Boise,NWRFC,19,0.95,False
+RFC ESP (Official or Hindcast),10,12105900,Green River below Howard Hanson Dam,NWRFC,9,0.45,False
+RFC ESP (Official or Hindcast),19,12409000,Colville River at Kettle Falls,NWRFC,9,0.45,False
+RFC ESP (Official or Hindcast),20,12451000,Stehekin River at Stehekin,NWRFC,13,0.65,False
+RFC ESP (Official or Hindcast),21,14181500,Detroit Lake Inflow,NWRFC,0,0.0,True
+RFC ESP (Official or Hindcast),23,12175000,Ross Reservoir Inflow,NWRFC,9,0.45,False
+RFC ESP (Official or Hindcast),26,13183000,Owyhee River below Owyhee Dam,NWRFC,11,0.55,False
+RFC ESP (Official or Hindcast),16,11251000,San Joaquin River - Millerton Reservoir,CNRFC,20,1.0,False
+RFC ESP (Official or Hindcast),17,11266500,Merced River - Yosemite at Pohono Bridge,CNRFC,20,1.0,False
+RFC ESP (Official or Hindcast),18,11446220,American River - Folsom Reservoir,CNRFC,20,1.0,False
+RFC ESP (Official or Hindcast),6,09361500,Animas River at Durango,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),7,09251000,Yampa River near Maybell,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),11,09109000,Taylor Park Reservoir Inflow,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),12,09050700,Dillon Reservoir Inflow,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),13,09080190,Ruedi Reservoir Inflow,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),14,09211150,Fontenelle Reservoir Inflow,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),15,10128500,Weber River near Oakley,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),22,09406000,Virgin River at Virgin,CBRFC,20,1.0,False
+RFC ESP (Official or Hindcast),4,06639000,Sweetwater River near Alcova,MBRFC,0,0.0,False
+RFC ESP (Official or Hindcast),5,06054500,Missouri River at Toston,MBRFC,0,0.0,True
+RFC ESP (Official or Hindcast),24,06259000,Boysen Reservoir Inflow,MBRFC,0,0.0,True
+RFC ESP (Official or Hindcast),3,07099400,Pueblo Reservoir Inflow,ABRFC,0,0.0,True
+RFC ESP (Official or Hindcast),25,08378500,Pecos River near Pecos,WGRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),1,12362500,Hungry Horse Reservoir Inflow,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),2,13037500,Snake River near Heise,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),8,12301933,Libby Reservoir Inflow,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),9,13202000,Boise River near Boise,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),10,12105900,Green River below Howard Hanson Dam,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),19,12409000,Colville River at Kettle Falls,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),20,12451000,Stehekin River at Stehekin,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),21,14181500,Detroit Lake Inflow,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),23,12175000,Ross Reservoir Inflow,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),26,13183000,Owyhee River below Owyhee Dam,NWRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),16,11251000,San Joaquin River - Millerton Reservoir,CNRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),17,11266500,Merced River - Yosemite at Pohono Bridge,CNRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),18,11446220,American River - Folsom Reservoir,CNRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),6,09361500,Animas River at Durango,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),7,09251000,Yampa River near Maybell,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),11,09109000,Taylor Park Reservoir Inflow,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),12,09050700,Dillon Reservoir Inflow,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),13,09080190,Ruedi Reservoir Inflow,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),14,09211150,Fontenelle Reservoir Inflow,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),15,10128500,Weber River near Oakley,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),22,09406000,Virgin River at Virgin,CBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),4,06639000,Sweetwater River near Alcova,MBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),5,06054500,Missouri River at Toston,MBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),24,06259000,Boysen Reservoir Inflow,MBRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),3,07099400,Pueblo Reservoir Inflow,ABRFC,20,1.0,False
+WSF Rodeo ML (1st-5th),25,08378500,Pecos River near Pecos,WGRFC,20,1.0,False

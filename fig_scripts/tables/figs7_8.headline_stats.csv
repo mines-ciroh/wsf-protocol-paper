@@ -1,0 +1,6 @@
+init,threshold_abs_wins_range,n_comparisons,n_significant,pct_significant,n_favor_rodeo,n_favor_benchmark
+Apr,7.48-8.94,120,8,6.7,2,6
+Feb,7.48-8.94,110,6,5.5,2,4
+Jan,7.48-8.94,100,8,8.0,1,7
+Mar,6.32-8.94,115,3,2.6,0,3
+All,10.58-17.78,125,26,20.8,6,20

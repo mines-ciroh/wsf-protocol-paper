@@ -1,0 +1,36 @@
+init_date,init_label,method,method_label,n_samples,n_samples_common_levels,brier_score,median_sharpness,mean_sharpness,reliability_category,climo_exceedance_freq
+0101,January 1st,nrcs,NRCS,1875,1125,0.1448,0.852,0.891,Excellent,0.438
+0101,January 1st,rfc_official,RFC Official,1449,1035,0.1596,0.823,0.869,Excellent,0.438
+0101,January 1st,rfc_hcst,RFC Hindcast,990,594,0.1897,0.735,0.781,Good,0.438
+0101,January 1st,wsf_rodeo_1place,WSF Rodeo 1st,1560,1560,0.1526,0.892,0.927,Excellent,0.438
+0101,January 1st,wsf_rodeo_2place,WSF Rodeo 2nd,1560,1560,0.1572,0.856,0.89,Excellent,0.438
+0101,January 1st,wsf_rodeo_3place,WSF Rodeo 3rd,1560,1560,0.1438,0.908,1.02,Excellent,0.438
+0101,January 1st,wsf_rodeo_4place,WSF Rodeo 4th,1560,1560,0.1459,0.965,1.057,Excellent,0.438
+0101,January 1st,wsf_rodeo_5place,WSF Rodeo 5th,1560,1560,0.149,0.985,1.004,Excellent,0.438
+0201,February 1st,nrcs,NRCS,1955,1173,0.1527,0.749,0.779,Excellent,0.44
+0201,February 1st,rfc_official,RFC Official,1483,1059,0.1625,0.674,0.708,Excellent,0.44
+0201,February 1st,rfc_hcst,RFC Hindcast,990,594,0.1802,0.618,0.64,Good,0.44
+0201,February 1st,ca_dwr,CA DWR,120,120,0.1967,0.979,0.946,Good,0.44
+0201,February 1st,wsf_rodeo_1place,WSF Rodeo 1st,1560,1560,0.1654,0.699,0.74,Excellent,0.44
+0201,February 1st,wsf_rodeo_2place,WSF Rodeo 2nd,1560,1560,0.1556,0.751,0.789,Excellent,0.44
+0201,February 1st,wsf_rodeo_3place,WSF Rodeo 3rd,1560,1560,0.1495,0.818,0.889,Excellent,0.44
+0201,February 1st,wsf_rodeo_4place,WSF Rodeo 4th,1560,1560,0.1495,0.838,0.895,Excellent,0.44
+0201,February 1st,wsf_rodeo_5place,WSF Rodeo 5th,1560,1560,0.151,0.859,0.897,Excellent,0.44
+0301,March 1st,nrcs,NRCS,2055,1233,0.1503,0.661,0.701,Excellent,0.44
+0301,March 1st,rfc_official,RFC Official,1504,1074,0.1578,0.574,0.605,Excellent,0.44
+0301,March 1st,rfc_hcst,RFC Hindcast,990,594,0.187,0.535,0.542,Good,0.44
+0301,March 1st,ca_dwr,CA DWR,120,120,0.2033,0.744,0.766,Good,0.44
+0301,March 1st,wsf_rodeo_1place,WSF Rodeo 1st,1560,1560,0.1705,0.64,0.682,Excellent,0.44
+0301,March 1st,wsf_rodeo_2place,WSF Rodeo 2nd,1560,1560,0.1613,0.647,0.702,Excellent,0.44
+0301,March 1st,wsf_rodeo_3place,WSF Rodeo 3rd,1560,1560,0.1515,0.702,0.786,Excellent,0.44
+0301,March 1st,wsf_rodeo_4place,WSF Rodeo 4th,1560,1560,0.1469,0.785,0.846,Excellent,0.44
+0301,March 1st,wsf_rodeo_5place,WSF Rodeo 5th,1560,1560,0.151,0.795,0.828,Excellent,0.44
+0401,April 1st,nrcs,NRCS,2140,1284,0.1442,0.54,0.607,Excellent,0.44
+0401,April 1st,rfc_official,RFC Official,1513,1083,0.1631,0.442,0.465,Excellent,0.44
+0401,April 1st,rfc_hcst,RFC Hindcast,990,594,0.1924,0.37,0.346,Good,0.44
+0401,April 1st,ca_dwr,CA DWR,120,120,0.1433,0.44,0.518,Excellent,0.44
+0401,April 1st,wsf_rodeo_1place,WSF Rodeo 1st,1560,1560,0.1444,0.566,0.631,Excellent,0.44
+0401,April 1st,wsf_rodeo_2place,WSF Rodeo 2nd,1560,1560,0.1521,0.572,0.625,Excellent,0.44
+0401,April 1st,wsf_rodeo_3place,WSF Rodeo 3rd,1560,1560,0.1321,0.613,0.687,Excellent,0.44
+0401,April 1st,wsf_rodeo_4place,WSF Rodeo 4th,1560,1560,0.1305,0.646,0.709,Excellent,0.44
+0401,April 1st,wsf_rodeo_5place,WSF Rodeo 5th,1560,1560,0.1531,0.61,0.657,Excellent,0.44
