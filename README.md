@@ -17,6 +17,10 @@ Preprint:
 * **Archive Assembly Repository**: https://github.com/mines-ciroh/wsf-archive-assembly — workflows used to build the benchmark archive this repo's stats/figures are computed from (source-data acquisition, parsing, harmonization)
 * **Benchmark Archive DOI**: TBD
 
+## Funding
+
+This work was supported by a grant to the Colorado School of Mines through the NOAA Cooperative Institute for Research to Operations in Hydrology (CIROH), funded under NOAA Cooperative Agreement NA22NWS4320003 with the University of Alabama, and by U.S. Army Corps of Engineers award W26HM432051757 to the NSF National Center for Atmospheric Research (NCAR).
+
 ## License
 
-Code: GPL-3.0 (`LICENSE`).
+Code: Apache-2.0 (`LICENSE`). Keep `NOTICE` with any copy or derivative.

@@ -1,41 +1,37 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it, and the article below, as listed here."
-title: "wsf-protocol-paper: code for the figures and statistics of a community evaluation protocol for seasonal water supply forecasting"
-abstract: "Scripts that compute the verification statistics and figures in Sturtevant et al., A Community Evaluation Protocol for Seasonal Water Supply Forecasting in the Western U.S. (Water Resources Research)."
-type: software
-version: 1.0.0
-date-released: "2026-11-12"
-license: GPL-3.0
-repository-code: "https://github.com/mines-ciroh/wsf-protocol-paper"
+cff-version: "1.2.0"
+
+message: "If you use this software or code in your research, please cite the following article:"
+title: "A Community Evaluation Protocol for Seasonal Water Supply Forecasting in the Western U.S."
+
 authors:
-  - family-names: Sturtevant
-    given-names: Joshua T.
-    affiliation: "Colorado School of Mines"
-  - family-names: Wood
-    given-names: Andrew W.
-    affiliation: "Colorado School of Mines"
-  - family-names: Frans
-    given-names: Chris D.
-    affiliation: "U.S. Bureau of Reclamation"
-  - family-names: Ferguson
-    given-names: Ian M.
-    affiliation: "U.S. Bureau of Reclamation"
-  - family-names: Pagano
-    given-names: Thomas C.
-    affiliation: "Bureau of Meteorology, Australia"
+  - family-names: "Sturtevant"
+    given-names: "Joshua T."
+  - family-names: "Wood"
+    given-names: "Andrew W."
+  - family-names: "Frans"
+    given-names: "Chris D."
+  - family-names: "Ferguson"
+    given-names: "Ian M."
+  - family-names: "Pagano"
+    given-names: "Thomas C."
+
+license: "Apache-2.0"
+repository-code: "https://github.com/mines-ciroh/wsf-protocol-paper"
+
 preferred-citation:
   type: article
   title: "A Community Evaluation Protocol for Seasonal Water Supply Forecasting in the Western U.S."
+  authors:
+  - family-names: "Sturtevant"
+    given-names: "Joshua T."
+  - family-names: "Wood"
+    given-names: "Andrew W."
+  - family-names: "Frans"
+    given-names: "Chris D."
+  - family-names: "Ferguson"
+    given-names: "Ian M."
+  - family-names: "Pagano"
+    given-names: "Thomas C."
+  year: "2026"
   journal: "Water Resources Research"
   status: submitted
-  authors:
-    - family-names: Sturtevant
-      given-names: Joshua T.
-    - family-names: Wood
-      given-names: Andrew W.
-    - family-names: Frans
-      given-names: Chris D.
-    - family-names: Ferguson
-      given-names: Ian M.
-    - family-names: Pagano
-      given-names: Thomas C.
