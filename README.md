@@ -15,7 +15,8 @@ Preprint:
 
 * **WSF Protocol Repository**: https://github.com/mines-ciroh/HydrometBench/tree/main/water_supply_fcst
 * **Archive Assembly Repository**: https://github.com/mines-ciroh/wsf-archive-assembly — workflows used to build the benchmark archive this repo's stats/figures are computed from (source-data acquisition, parsing, harmonization)
-* **Benchmark Archive DOI**: TBD
+* **This repository (v1.0.0) DOI**: https://doi.org/10.5281/zenodo.24179550
+* **Benchmark Archive DOI**: https://doi.org/10.5281/zenodo.24179554
 
 ## Funding
 
